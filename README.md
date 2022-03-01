@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/F8JCyMp/Luciano-Benavides.png" align="center" style="width: 100%" />
+<a href='https://linkedin.com/in/luciano-benavides'><img src="https://i.ibb.co/F8JCyMp/Luciano-Benavides.png" align="center" style="width: 100%" /></a>
 </div>  
   
 
