@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on an e-commerce team project.  
   
 
-- 🌱 I’m currently learning TypeScript and Prisma.  
+- 🌱 I’m currently learning TypeScript, Prisma, MongoDB, Tailwind.  
   
 
 - ❓ Ask me about anything related to PERN stack and related technologies  
